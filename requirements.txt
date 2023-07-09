@@ -1,0 +1,5 @@
+openai-whisper
+deeppavlov
+spacy-model-manager
+ffmpeg
+python-docx
